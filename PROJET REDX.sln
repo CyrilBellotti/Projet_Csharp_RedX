@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Couche Middleware", "Couche Middleware\Couche Middleware.csproj", "{7F567155-BF3D-4DC5-ADB0-4C4E49D0CF9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicePerf", "ServicePerf\ServicePerf.csproj", "{93EF4F83-5609-4B93-81B6-460D8DAB2001}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoucheClientDiffusion", "CoucheClientDiffusion\CoucheClientDiffusion.csproj", "{B791CE68-55E8-4A09-8F5B-13515ECC1119}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donnée", "Donnée\Donnée.csproj", "{7C8EE619-E5F5-4485-B2EB-DEBEABC11053}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoucheMiddlewareApplication", "CoucheMiddlewareApplication\CoucheMiddlewareApplication.csproj", "{B511C0A9-69F9-4A36-B2CD-B8CD7BB5FC4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoucheClientGestion", "CoucheClientGestion\CoucheClientGestion.csproj", "{0F105740-2B22-44F3-A5BE-9FFB601BB460}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddlewareTest", "MiddlewareTest\MiddlewareTest.csproj", "{40ABF30F-6A96-4025-A0A1-EBAC5E4C01D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F567155-BF3D-4DC5-ADB0-4C4E49D0CF9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F567155-BF3D-4DC5-ADB0-4C4E49D0CF9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F567155-BF3D-4DC5-ADB0-4C4E49D0CF9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F567155-BF3D-4DC5-ADB0-4C4E49D0CF9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93EF4F83-5609-4B93-81B6-460D8DAB2001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93EF4F83-5609-4B93-81B6-460D8DAB2001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93EF4F83-5609-4B93-81B6-460D8DAB2001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93EF4F83-5609-4B93-81B6-460D8DAB2001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B791CE68-55E8-4A09-8F5B-13515ECC1119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B791CE68-55E8-4A09-8F5B-13515ECC1119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B791CE68-55E8-4A09-8F5B-13515ECC1119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B791CE68-55E8-4A09-8F5B-13515ECC1119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C8EE619-E5F5-4485-B2EB-DEBEABC11053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C8EE619-E5F5-4485-B2EB-DEBEABC11053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C8EE619-E5F5-4485-B2EB-DEBEABC11053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C8EE619-E5F5-4485-B2EB-DEBEABC11053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B511C0A9-69F9-4A36-B2CD-B8CD7BB5FC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B511C0A9-69F9-4A36-B2CD-B8CD7BB5FC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B511C0A9-69F9-4A36-B2CD-B8CD7BB5FC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B511C0A9-69F9-4A36-B2CD-B8CD7BB5FC4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F105740-2B22-44F3-A5BE-9FFB601BB460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F105740-2B22-44F3-A5BE-9FFB601BB460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F105740-2B22-44F3-A5BE-9FFB601BB460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F105740-2B22-44F3-A5BE-9FFB601BB460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40ABF30F-6A96-4025-A0A1-EBAC5E4C01D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40ABF30F-6A96-4025-A0A1-EBAC5E4C01D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40ABF30F-6A96-4025-A0A1-EBAC5E4C01D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40ABF30F-6A96-4025-A0A1-EBAC5E4C01D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 8
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://cyrilmattiuzzi.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ServicePerf\\ServicePerf.csproj
+		SccProjectName1 = ServicePerf
+		SccLocalPath1 = ServicePerf
+		SccProjectUniqueName2 = Couche\u0020Middleware\\Couche\u0020Middleware.csproj
+		SccProjectName2 = Couche\u0020Middleware
+		SccLocalPath2 = Couche\u0020Middleware
+		SccProjectUniqueName3 = CoucheClientDiffusion\\CoucheClientDiffusion.csproj
+		SccProjectName3 = CoucheClientDiffusion
+		SccLocalPath3 = CoucheClientDiffusion
+		SccProjectUniqueName4 = Donnée\\Donnée.csproj
+		SccProjectName4 = Donnée
+		SccLocalPath4 = Donnée
+		SccProjectUniqueName5 = CoucheMiddlewareApplication\\CoucheMiddlewareApplication.csproj
+		SccProjectName5 = CoucheMiddlewareApplication
+		SccLocalPath5 = CoucheMiddlewareApplication
+		SccProjectUniqueName6 = CoucheClientGestion\\CoucheClientGestion.csproj
+		SccProjectName6 = CoucheClientGestion
+		SccLocalPath6 = CoucheClientGestion
+		SccProjectUniqueName7 = MiddlewareTest\\MiddlewareTest.csproj
+		SccProjectName7 = MiddlewareTest
+		SccLocalPath7 = MiddlewareTest
+	EndGlobalSection
+EndGlobal
